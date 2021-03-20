@@ -1,0 +1,75 @@
+h1{
+    color:chocolate;
+
+    margin-left: 50%;
+  }
+
+p{
+  color:dodgerblue
+  
+  
+}
+
+ol{
+color:orangered
+
+}
+
+.title{
+background-color: thistle;
+font-family:cursive;
+
+
+}
+
+.grid{
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-content: flex-start;
+
+
+
+}
+
+.grid img{
+
+  border: 2px solid black;
+  border-radius: 50px;
+}
+
+
+
+.origami{
+
+ 
+
+  border-radius: 20px;
+background-color: cornsilk;
+
+width:310px ;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+  
+}
+
+.main{
+background-image:url("background.png")
+
+
+
+}
+
+
+
+
+
+  
+
+
+
+
